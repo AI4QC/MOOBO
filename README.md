@@ -1,3 +1,5 @@
+# Note: Legacy codes by forking from Sherry's personal github. AI4Chemistry Lab will continue developing in this direction, and hopefully release new studies on this track.
+
 # Bayesian optimization with search space prescreening via outlier detection (ODBO)
 
 ## Overview
